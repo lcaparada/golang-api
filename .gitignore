@@ -1,0 +1,16 @@
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Test binaries
+*.test
+
+# Build files
+build/
+
+# Coverage
+*.out
+
+# Database
+db/
